@@ -1,0 +1,44 @@
+{
+    "produtos": [
+      {
+        "id": 1,
+        "imagem": "../img/products/f1.jpg",
+        "marca": "Adidas",
+        "titulo": "Produto A",
+        "avaliacao": 1,
+        "preco": 29.99
+      },
+      {
+        "id": 2,
+        "imagem": "../img/products/f2.jpg",
+        "marca": "Nike",
+        "titulo": "Produto B",
+        "avaliacao": 3,
+        "preco": 49.99
+      },
+      {
+        "id": 3,
+        "imagem": "../img/products/f3.jpg",
+        "marca": "Adidas",
+        "titulo": "Produto C",
+        "avaliacao": 5,
+        "preco": 10.99
+      },
+      {
+        "id": 4,
+        "imagem": "../img/products/f4.jpg",
+        "marca": "Adidas",
+        "titulo": "Produto D",
+        "avaliacao": 2,
+        "preco": 24.00
+      },
+      {
+        "id": 5,
+        "imagem": "../img/products/f5.jpg",
+        "marca": "Adidas",
+        "titulo": "Produto E",
+        "avaliacao": 5,
+        "preco": 36.50
+      }
+    ]
+  }
